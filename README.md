@@ -1,6 +1,7 @@
-# Hello, I'm Berkay 👋
+# Berkay Uckac
 
-## About Me
-Server Lead currently working at Futureplay, Modern Times Group | Ex Zynga, Threewell, Freelancer
+Staff software engineer and server lead at Futureplay (MTG), building the Go backend behind multiple live games and millions of players. Previously at Zynga (Gram Games) and Threewell Studios.
 
-Feel free to explore my repositories and reach out if you have any questions, or just want to connect at: https://berkay.fi
+Mostly working on distributed systems, performance, and Kubernetes.
+
+[berkay.fi](https://berkay.fi)
